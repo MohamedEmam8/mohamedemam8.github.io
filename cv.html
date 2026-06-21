@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mohamed Emam — Curriculum Vitae</title>
+<style>
+  @page { size: A4; margin: 14mm 15mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; color: #1a2230; font-size: 10.2pt; line-height: 1.45; }
+  a { color: #0e7c86; text-decoration: none; }
+
+  header { border-bottom: 3px solid #0e7c86; padding-bottom: 10px; margin-bottom: 14px; }
+  .name { font-size: 23pt; font-weight: 800; letter-spacing: -.5px; color: #0d1b2a; }
+  .role { font-size: 11pt; color: #0e7c86; font-weight: 600; margin-top: 2px; }
+  .contact { margin-top: 8px; font-size: 9.2pt; color: #44505f; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+  .contact span::before { content: "•"; color: #9aa7b8; margin-right: 6px; }
+  .contact span:first-child::before { content: ""; margin: 0; }
+
+  h2 { font-size: 11pt; text-transform: uppercase; letter-spacing: 1px; color: #0e7c86;
+       border-bottom: 1px solid #d9e0e8; padding-bottom: 3px; margin: 16px 0 8px; }
+  .summary { color: #2f3a48; text-align: justify; }
+
+  .item { margin-bottom: 9px; page-break-inside: avoid; }
+  .item .top { display: flex; justify-content: space-between; gap: 12px; }
+  .item .title { font-weight: 700; color: #1a2230; }
+  .item .org { color: #44505f; font-style: italic; }
+  .item .date { color: #6a7686; font-size: 9pt; white-space: nowrap; font-weight: 600; }
+  .item .desc { color: #3a4654; font-size: 9.6pt; margin-top: 1px; }
+
+  ol.pubs { margin: 0; padding-left: 16px; }
+  ol.pubs li { margin-bottom: 6px; page-break-inside: avoid; }
+  ol.pubs .t { font-weight: 600; }
+  ol.pubs .v { color: #556; font-style: italic; }
+
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 26px; }
+  ul.tight { list-style: none; }
+  ul.tight li { padding-left: 13px; position: relative; color: #3a4654; margin-bottom: 2px; font-size: 9.6pt; }
+  ul.tight li::before { content: "▸"; position: absolute; left: 0; color: #0e7c86; font-size: 8pt; top: 1px; }
+  .tag { display: inline-block; background: #e9f4f5; color: #095e66; border: 1px solid #cfe6e8;
+         padding: 1px 8px; border-radius: 10px; font-size: 8.5pt; margin: 2px 3px 2px 0; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="name">Mohamed Emam</div>
+    <div class="role">Biomechanics Researcher · AHPRA-Registered Physiotherapist</div>
+    <div class="contact">
+      <span>abdelaziz.mohamed@phd.semmelweis.hu</span>
+      <span>+36 30 094 6773</span>
+      <span>Budapest, Hungary</span>
+      <span>linkedin.com/in/mohamed-emam-403262297</span>
+    </div>
+  </header>
+
+  <h2>Professional Summary</h2>
+  <p class="summary">
+    Biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis
+    University (Budapest) and Cairo University (defence: November 2026). I bridge clinical rehabilitation
+    with cutting-edge biomechanics using markerless motion capture (OpenCap) and statistical parametric
+    mapping. Nine years of clinical and academic experience, 8 peer-reviewed publications in Q1/Q2 journals,
+    and full general registration with AHPRA. Research spans gait analysis, neurorehabilitation, electrical
+    stimulation, and aging physiology. Seeking postdoctoral fellowship opportunities.
+  </p>
+
+  <h2>Education</h2>
+  <div class="item">
+    <div class="top"><span class="title">Joint PhD in Health Sciences</span><span class="date">2022 – Present</span></div>
+    <div class="org">Semmelweis University, Budapest &amp; Cairo University, Egypt</div>
+    <div class="desc">Markerless motion capture, gait analysis &amp; rehabilitation biomechanics. Defence expected November 2026.</div>
+  </div>
+  <div class="item">
+    <div class="top"><span class="title">MSc in Physical Therapy</span><span class="date">2015 – 2019</span></div>
+    <div class="org">Cairo University, Egypt</div>
+  </div>
+  <div class="item">
+    <div class="top"><span class="title">BSc in Physical Therapy (Honours)</span><span class="date">2008 – 2013</span></div>
+    <div class="org">Cairo University, Egypt</div>
+  </div>
+
+  <h2>Professional Experience</h2>
+  <div class="item">
+    <div class="top"><span class="title">Assistant Lecturer</span><span class="date">2016 – Present</span></div>
+    <div class="org">Kafr El-Sheikh University, Egypt</div>
+    <div class="desc">Teaching musculoskeletal physiotherapy, lab demonstrations, curriculum development, student research mentorship.</div>
+  </div>
+  <div class="item">
+    <div class="top"><span class="title">Founder &amp; Physiotherapist</span><span class="date">2015 – Present</span></div>
+    <div class="org">Start-Rehabilitation Centre, Kafr El-Sheikh</div>
+    <div class="desc">Clinical management of musculoskeletal &amp; orthopaedic conditions; manual therapy and exercise rehabilitation; clinic operations.</div>
+  </div>
+  <div class="item">
+    <div class="top"><span class="title">R&amp;D Team Lead</span><span class="date">2022 – 2025</span></div>
+    <div class="org">Physioway (Physiotherapy Technology Company)</div>
+    <div class="desc">Directed development of clinical applications (scoliosis assessment tool, vestibular rehabilitation app).</div>
+  </div>
+
+  <h2>Selected Publications</h2>
+  <ol class="pubs">
+    <li><span class="t">Impact of Russian Current Therapy Targeting the Anterior Tibial Group on Balance and Fall Risk in Post-Stroke Patients: An RCT.</span> <span class="v">Neurological Sciences</span>, 2026.</li>
+    <li><span class="t">Wrist Muscle Performance in Students with Chronic Nonspecific Neck Pain: An Isokinetic Assessment.</span> <span class="v">BMC Musculoskeletal Disorders</span>, 2026.</li>
+    <li><span class="t">Effect of Gaze Direction Recognition Task on Pain, ROM and Functional Activities in Cervicogenic Headache Patients.</span> <span class="v">BMC Neurology</span>, 2026.</li>
+    <li><span class="t">Proprioceptive Training Reduces Headache Burden and Centre of Pressure Path Length in Cervicogenic Headache: An RCT.</span> <span class="v">Physiology International</span>, 2025.</li>
+    <li><span class="t">Effect of Different Types of Electrical Stimulation on Postural Control and Gait After Stroke: A Systematic Review and Meta-Analysis.</span> <span class="v">Physiology International</span>, 112(4), 2025. <span class="tag">Q2</span></li>
+    <li><span class="t">Blood Flow Restriction Exercise Protocols for Elderly Populations: A Scoping Review.</span> <span class="v">Journal of Clinical Medicine</span>, 14(12):4185, 2025. <span class="tag">Q1</span></li>
+    <li><span class="t">Proprioceptive Training Improves Postural Stability and Reduces Pain in Cervicogenic Headache Patients: An RCT.</span> <span class="v">Journal of Clinical Medicine</span>, 13(22):6777, 2024. <span class="tag">Q1</span></li>
+    <li><span class="t">Effect of Cervicogenic Headache on Myoelectrical Activities of Suboccipital Muscles, ROM and Functional Activities at Different Ages.</span> <span class="v">Medical Journal of Cairo University</span>, 2019.</li>
+  </ol>
+
+  <h2>Technical Skills</h2>
+  <div class="two">
+    <ul class="tight">
+      <li><b>Motion capture:</b> OpenCap (markerless), marker-based systems</li>
+      <li><b>Statistics:</b> SPM1D, Linear Mixed-Effects Models</li>
+      <li><b>Programming:</b> MATLAB, Python, R, SPSS</li>
+    </ul>
+    <ul class="tight">
+      <li><b>Imaging:</b> MRI muscle segmentation &amp; analysis</li>
+      <li><b>Assessment:</b> Isokinetic dynamometry, surface EMG</li>
+      <li><b>Design:</b> RCTs, systematic reviews, meta-analyses</li>
+    </ul>
+  </div>
+
+  <h2>Awards, Registration &amp; Languages</h2>
+  <ul class="tight">
+    <li><b>AHPRA</b> — Physiotherapist, Full General Registration (No. PHY0002905130)</li>
+    <li><b>Scholarships:</b> Stipendium Hungaricum · Global Korea Scholarship · SE 250+ Excellence PhD · EKOP Doctoral Excellence Grant</li>
+    <li><b>Recognition:</b> Poster Award, 1st International Health Science Conference, Szeged (2025); 5 peer reviews completed</li>
+    <li><b>Languages:</b> Arabic (native) · English (C1–C2, PTE 81) · Hungarian (A1)</li>
+  </ul>
+</body>
+</html>
