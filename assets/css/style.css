@@ -15,17 +15,17 @@
   --maxw: 1080px;
 }
 html[data-theme="dark"] {
-  --bg: #0d1117;
-  --bg-alt: #131a24;
-  --surface: #161d28;
-  --border: #242e3c;
-  --text: #e8edf4;
-  --muted: #9aa7b8;
-  --brand: #2dd4bf;
-  --brand-strong: #5eead4;
-  --accent: #5ea8f0;
-  --shadow: 0 10px 30px rgba(0, 0, 0, .45);
-  --shadow-sm: 0 4px 14px rgba(0, 0, 0, .35);
+  --bg: #1c2533;
+  --bg-alt: #243042;
+  --surface: #2b3749;
+  --border: #3c4a5e;
+  --text: #eef2f8;
+  --muted: #aebac9;
+  --brand: #34d6c2;
+  --brand-strong: #6ceede;
+  --accent: #6fb0f2;
+  --shadow: 0 10px 30px rgba(0, 0, 0, .32);
+  --shadow-sm: 0 4px 14px rgba(0, 0, 0, .24);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -97,7 +97,7 @@ html[data-theme="dark"] .icon-moon { display: block; }
   position: relative; width: 240px; height: 240px; border-radius: 24px; overflow: hidden;
   box-shadow: var(--shadow); border: 4px solid var(--surface);
 }
-.hero__photo img { width: 100%; height: 100%; object-fit: cover; }
+.hero__photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; }
 .hero__photo::after {
   content: ''; position: absolute; inset: 0;
   background: linear-gradient(135deg, transparent 60%, color-mix(in srgb, var(--brand) 30%, transparent));
