@@ -199,6 +199,8 @@ html[data-theme="dark"] .chip { color: var(--brand); }
 .pub__body h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.4; }
 .pub__venue { color: var(--muted); font-size: .9rem; margin-top: 6px; }
 .badge { background: var(--accent); color: #fff; padding: 1px 8px; border-radius: 6px; font-size: .72rem; font-weight: 700; }
+.badge--soft { background: color-mix(in srgb, var(--brand) 16%, transparent); color: var(--brand-strong); border: 1px solid color-mix(in srgb, var(--brand) 30%, transparent); }
+html[data-theme="dark"] .badge--soft { color: var(--brand); }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
 .tags span { font-size: .74rem; color: var(--muted); background: var(--bg-alt); border: 1px solid var(--border); padding: 3px 9px; border-radius: 6px; }
 .pub__arrow { font-size: 1.3rem; color: var(--muted); transition: color .2s ease, transform .2s ease; }
