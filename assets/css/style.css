@@ -236,6 +236,8 @@ html[data-theme="dark"] .chip { color: var(--brand); }
 html[data-theme="dark"] .contact__icon { color: var(--brand); }
 .contact__label { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .contact__val { font-weight: 600; word-break: break-word; }
+.contact__save { margin-top: 28px; text-align: center; }
+.contact__save-note { color: var(--muted); font-size: .88rem; margin-top: 12px; }
 
 /* ===== Footer ===== */
 .footer { border-top: 1px solid var(--border); padding: 30px 24px; text-align: center; color: var(--muted); font-size: .9rem; }
