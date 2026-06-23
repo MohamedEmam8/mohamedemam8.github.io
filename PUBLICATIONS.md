@@ -4,7 +4,22 @@
 
 ### 2026
 
-#### 1. Impact of Russian Current Therapy Targeting the Anterior Tibial Group on Balance and Fall Risk in Post-Stroke Patients: A Randomised Controlled Trial
+#### 1. Using Machine Learning-Based Classification of Postural Stability in Cervicogenic Headache Patients: Predictors and Clinical Implications
+**Citation:** *Life* (ISSN 2075-1729), 2026 — Accepted 23 June 2026  
+**DOI/Link:** Forthcoming (manuscript ID: life-4326568)
+
+**Study Type:** Machine Learning Classification Study  
+**Relevance:** Machine Learning, Postural Stability, Cervicogenic Headache, Clinical Prediction  
+
+**Summary:** Applies machine learning–based classification to postural-stability measures in cervicogenic headache patients to identify predictors of postural instability and their clinical implications.
+
+**Key Result:** Machine-learning models classify postural stability in cervicogenic headache patients and surface clinically relevant predictors.
+
+**Impact Factor:** Q1 Journal (MDPI)  
+
+---
+
+#### 2. Impact of Russian Current Therapy Targeting the Anterior Tibial Group on Balance and Fall Risk in Post-Stroke Patients: A Randomised Controlled Trial
 **Citation:** *Neurological Sciences*, 2026  
 **DOI/Link:** [https://link.springer.com/article/10.1007/s10072-026-08959-9](https://link.springer.com/article/10.1007/s10072-026-08959-9)
 
@@ -17,7 +32,7 @@
 
 ---
 
-#### 2. Wrist Muscle Performance in Students with Chronic Nonspecific Neck Pain: An Isokinetic Assessment
+#### 3. Wrist Muscle Performance in Students with Chronic Nonspecific Neck Pain: An Isokinetic Assessment
 **Citation:** *BMC Musculoskeletal Disorders*, 2026  
 **DOI/Link:** [https://link.springer.com/article/10.1186/s12891-026-09730-z](https://link.springer.com/article/10.1186/s12891-026-09730-z)
 
@@ -30,7 +45,7 @@
 
 ---
 
-#### 3. Effect of Gaze Direction Recognition Task on Pain, ROM and Functional Activities in Cervicogenic Headache Patients
+#### 4. Effect of Gaze Direction Recognition Task on Pain, ROM and Functional Activities in Cervicogenic Headache Patients
 **Citation:** *BMC Neurology*, 2026  
 **DOI/Link:** [https://link.springer.com/article/...](https://link.springer.com/article/10.1186/s12883-025-04405-z)
 
@@ -45,7 +60,7 @@
 
 ### 2025
 
-#### 4. Proprioceptive Training Reduces Headache Burden and Centre of Pressure Path Length in Patients with Cervicogenic Headache: A Randomised Controlled Trial
+#### 5. Proprioceptive Training Reduces Headache Burden and Centre of Pressure Path Length in Patients with Cervicogenic Headache: A Randomised Controlled Trial
 **Citation:** *Physiology International*, 2025  
 **DOI/Link:** [https://akjournals.com/view/journals/2060/aop/article-10.1556-2060.2026.00769/article-10.1556-2060.2026.00769.xml](https://akjournals.com/view/journals/2060/aop/article-10.1556-2060.2026.00769/article-10.1556-2060.2026.00769.xml)
 
@@ -60,7 +75,7 @@
 
 ---
 
-#### 5. Effect of Different Types of Electrical Stimulation on Postural Control and Gait After Stroke: A Systematic Review and Meta-Analysis
+#### 6. Effect of Different Types of Electrical Stimulation on Postural Control and Gait After Stroke: A Systematic Review and Meta-Analysis
 **Citation:** *Physiology International*, 2025;112(4)  
 **DOI/Link:** [https://akjournals.com/view/journals/2060/112/4/article-p393.xml](https://akjournals.com/view/journals/2060/112/4/article-p393.xml)
 
@@ -80,7 +95,7 @@
 
 ---
 
-#### 6. Exploring Blood Flow Restriction Exercise Protocols for Elderly Populations: A Scoping Review of Cuff Pressure, Frequency, and Duration for Muscle Strength, Hypertrophy, and Functional Abilities Outcomes
+#### 7. Exploring Blood Flow Restriction Exercise Protocols for Elderly Populations: A Scoping Review of Cuff Pressure, Frequency, and Duration for Muscle Strength, Hypertrophy, and Functional Abilities Outcomes
 **Citation:** *Journal of Clinical Medicine*, 2025;14(12):4185  
 **DOI/Link:** [https://www.mdpi.com/2077-0383/14/12/4185](https://www.mdpi.com/2077-0383/14/12/4185)
 
@@ -98,7 +113,7 @@
 
 ---
 
-#### 7. Proprioceptive Training Improves Postural Stability and Reduces Pain in Cervicogenic Headache Patients: A Randomized Clinical Trial
+#### 8. Proprioceptive Training Improves Postural Stability and Reduces Pain in Cervicogenic Headache Patients: A Randomized Clinical Trial
 **Citation:** *Journal of Clinical Medicine*, 2024;13(22):6777  
 **DOI/Link:** [https://www.mdpi.com/2077-0383/13/22/6777](https://www.mdpi.com/2077-0383/13/22/6777)
 
@@ -120,7 +135,7 @@
 
 ### 2024
 
-#### 8. The Effect of Cervicogenic Headache on the Myoelectrical Activities of Suboccipital Muscles, Range of Motion and Functional Activities of the Neck at Different Ages
+#### 9. The Effect of Cervicogenic Headache on the Myoelectrical Activities of Suboccipital Muscles, Range of Motion and Functional Activities of the Neck at Different Ages
 **Citation:** *Medical Journal of Cairo University*, 2019  
 **DOI/Link:** [https://mjcu.journals.ekb.eg/article_52423.html](https://mjcu.journals.ekb.eg/article_52423.html)
 
@@ -137,8 +152,8 @@
 
 | Metric | Value |
 |---|---|
-| **Total Peer-Reviewed Publications** | 8 |
-| **Q1 Journal Papers** | 4 |
+| **Total Peer-Reviewed Publications** | 9 |
+| **Q1 Journal Papers** | 5 |
 | **Q2 Journal Papers** | 3 |
 | **Study Types** | RCTs (3), Systematic Reviews (2), Scoping Reviews (1), Cross-sectional (2) |
 | **Publication Years** | 2019, 2024, 2025, 2026 |
