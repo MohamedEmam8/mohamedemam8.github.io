@@ -2,11 +2,11 @@
 
 ## Professional Summary
 
-I am a biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis University (Budapest) and Cairo University, with my defence scheduled for **November 2026**. My work bridges clinical rehabilitation practice with cutting-edge biomechanics research, using markerless motion capture (OpenCap) and statistical parametric mapping to answer questions that matter in real clinical settings.
+I am a biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis University (Budapest) and Cairo University, with my defence scheduled for **August 2026**. My work bridges clinical rehabilitation practice with cutting-edge biomechanics research, using markerless motion capture (OpenCap) and statistical parametric mapping to answer questions that matter in real clinical settings.
 
 With **9 years of clinical and academic experience**, I bring both theoretical expertise and hands-on understanding of what works in musculoskeletal and neurological rehabilitation. I hold full general registration with the Australian Health Practitioner Regulation Agency (AHPRA), meaning I can participate in clinical research in Australia from day one.
 
-My research focuses on **gait analysis, motion capture biomechanics, neurorehabilitation, electrical stimulation, and aging physiology**. I have authored **8 peer-reviewed publications** in Q1 and Q2 journals, including randomised controlled trials, systematic reviews, and meta-analyses. Beyond research, I teach physiotherapy at university level, create clinical education content for practitioners and students, and mentor undergraduate and master's students in research design and methodology.
+My research focuses on **gait analysis, motion capture biomechanics, neurorehabilitation, electrical stimulation, and aging physiology**. I have authored **eleven peer-reviewed publications** (two in press) in Q1 and Q2 journals, including randomised controlled trials, systematic reviews, meta-analyses, and machine-learning classification of biomechanical data. Beyond research, I teach physiotherapy at university level, create clinical education content for practitioners and students, and mentor undergraduate and master's students in research design and methodology.
 
 ---
 
@@ -14,9 +14,9 @@ My research focuses on **gait analysis, motion capture biomechanics, neurorehabi
 
 ### Joint PhD in Health Sciences
 **Semmelweis University, Budapest, Hungary & Cairo University, Egypt**  
-*2022 – Present (defence expected November 2026)*
+*2022 – Present (defence expected August 2026)*
 
-Focus: Markerless motion capture, gait analysis, and rehabilitation biomechanics
+Focus: Postural control and proprioceptive rehabilitation in cervicogenic headache; surface EMG, posturography, and machine-learning classification of biomechanical data
 
 ### MSc in Physical Therapy
 **Cairo University, Egypt**  
@@ -47,7 +47,7 @@ Registration No.: PHY0002905130
 | SE 250+ Excellence PhD Scholarship | 2026 | Merit award for Q1 research profile |
 | EKOP Doctoral Excellence Grant (Hungarian Ministry) | 2026 | National competitive funding |
 | Poster Award at International Health Science Conference | 2025 | International recognition |
-| 8 peer-reviewed publications | 2024–2026 | Consistent research output |
+| 11 peer-reviewed publications | 2019–2026 | Consistent research output |
 | 5 peer reviews completed | Ongoing | Academic service to community |
 | AHPRA full registration | Current | Clinical practice authority in Australia |
 
@@ -168,7 +168,7 @@ The gap between research and clinical practice is real. I've spent my career try
 
 I bring:
 - ✓ Clinical credibility (AHPRA registration, 9 years practice)
-- ✓ Research depth (8 Q1/Q2 publications, PhD on horizon)
+- ✓ Research depth (11 Q1/Q2 publications, PhD on horizon)
 - ✓ Technical skills (OpenCap, SPM, MATLAB, advanced statistics)
 - ✓ Teaching experience (university lecturer, knowledge translation)
 - ✓ International recognition (scholarships, conference presentations)

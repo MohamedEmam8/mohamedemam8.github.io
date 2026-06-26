@@ -59,7 +59,7 @@ SPM1D is a powerful statistical framework for analyzing movement data across gro
 - Comparing gait patterns between diseased and healthy populations
 - Evaluating intervention effects on movement quality
 - Identifying disease-specific kinematic signatures
-- Kinematic patterns in muscular dystrophy (current PhD work)
+- Kinematic patterns in muscular dystrophy (manuscript under review)
 
 ---
 
@@ -107,12 +107,15 @@ Beyond gait, I investigate biomechanics of common musculoskeletal problems.
 
 ---
 
-## Current PhD Research
+## PhD Research
 
-### Title (anticipated)
-**Kinematic Patterns in Muscular Dystrophy: A Statistical Parametric Mapping Analysis**
+### Focus
+**Postural control and proprioceptive rehabilitation in cervicogenic headache** — using surface EMG, posturography, and machine-learning classification of biomechanical data. **Defence: August 2026.**
 
-### Project Overview
+### Emerging direction (beyond the PhD)
+Alongside the doctorate, I have built a markerless motion-capture and SPM research programme — including a muscular-dystrophy gait study (manuscript under review) and post-stroke gait machine-learning work. This is the methodological foundation of my proposed postdoctoral research.
+
+### Muscular Dystrophy Gait Study (manuscript under review)
 Muscular dystrophy causes progressive muscle weakness, leading to compensatory gait patterns and functional decline. Using markerless motion capture (OpenCap) and Statistical Parametric Mapping, we identify disease-specific kinematic signatures that may:
 - Provide objective biomarkers for disease progression
 - Detect early functional decline
@@ -125,7 +128,7 @@ Muscular dystrophy causes progressive muscle weakness, leading to compensatory g
 - **Analysis:** SPM1D for kinematic curves comparing groups
 - **Outcomes:** Identification of kinematically distinct movement patterns
 
-**Defence:** November 2026
+**Defence:** August 2026
 
 ---
 
