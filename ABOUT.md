@@ -42,7 +42,7 @@ Registration No.: PHY0002905130
 |---|---|---|
 | First Q1 publication in *Journal of Clinical Medicine* | 2024 | Established peer-review credibility |
 | Global Korea Scholarship (4 candidates nationally) | 2023 | Highly selective government award |
-| Stipendium Hungaricum Scholarship | 2024 | Full-funded international doctoral study |
+| Stipendium Hungaricum Scholarship | 2023 | Full-funded international doctoral study |
 | First author meta-analysis on electrical stimulation | 2025 | Systematized evidence for clinical practice |
 | SE 250+ Excellence PhD Scholarship | 2026 | Merit award for Q1 research profile |
 | EKOP Doctoral Excellence Grant (Hungarian Ministry) | 2026 | National competitive funding |
