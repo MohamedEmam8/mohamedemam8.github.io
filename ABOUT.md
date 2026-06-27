@@ -113,8 +113,8 @@ Beyond academic publishing, I am committed to making research accessible to clin
 ## International Experience & Volunteering
 
 - **Erasmus+ Exchanges & Youth Projects** (2023–2025): Germany, Romania, Lithuania, Spain, Austria
-- **Volunteer, World Aquatics Championships, Budapest** (2022)
-- **Volunteer, 45th Chess Olympiad, Budapest** (2022)
+- **Volunteer, World Aquatics Swimming Championships (25m), Budapest** (2024)
+- **Volunteer, 45th Chess Olympiad, Budapest** (2024)
 - **Volunteer, Resala Charity** — Educational courses, Egypt (2020)
 - **Volunteer, Future Doctors** — Lecture series for new physicians, Egypt (2021)
 
