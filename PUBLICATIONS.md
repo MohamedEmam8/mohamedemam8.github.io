@@ -6,6 +6,7 @@
 
 #### 1. Exploring the Psychological Distress, Socioeconomic Hardship, and Academic Performance Among University Students During a Period of National Crisis
 **Citation:** *Social Sciences & Humanities Open*, 2026 — Accepted, in press  
+**Impact Factor:** Q1 Journal  
 
 **Study Type:** Cross-sectional Survey Study  
 **Relevance:** Psychological Distress, Socioeconomic Hardship, Academic Performance  
@@ -22,6 +23,7 @@
 
 **Study Type:** Cross-sectional Study  
 **Relevance:** Paediatric Rehabilitation, Quality of Life, Chronic Illness  
+**Impact Factor:** Q1 Journal  
 
 **Summary:** Identifies the clinical and family factors that shape health-related quality of life in children living with leukaemia.
 
@@ -204,8 +206,8 @@
 | Metric | Value |
 |---|---|
 | **Total Peer-Reviewed Publications** | 13 (2 accepted/in press) |
-| **Q1 Journal Papers** | 7 |
-| **Q2 Journal Papers** | 4 |
+| **Q1 Journal Papers** | 9 |
+| **Q2 Journal Papers** | 2 |
 | **Study Types** | RCTs (4), Systematic Reviews & Meta-Analyses (3), Scoping Reviews (1), Cross-sectional (4), Machine-learning classification (1) |
 | **Publication Years** | 2019, 2024, 2025, 2026 |
 | **First-Author Publications** | 6 |

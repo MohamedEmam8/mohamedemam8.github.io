@@ -18,8 +18,6 @@ My research focuses on **gait analysis, motion capture biomechanics, neurorehabi
 
 Postural control and proprioceptive rehabilitation in cervicogenic headache — surface EMG, posturography and machine-learning analysis of biomechanical data; and resistance training on the cost of walking and muscle architecture in healthy older adults
 
-Supervisors: Prof. Tibor Hortobágyi; Assoc. Prof. Magda Ramadan
-
 ### MSc in Physical Therapy
 **Cairo University, Egypt**  
 *2015 – 2019*

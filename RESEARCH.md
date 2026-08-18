@@ -110,7 +110,7 @@ Beyond gait, I investigate biomechanics of common musculoskeletal problems.
 ## PhD Research
 
 ### Focus
-**Postural control and proprioceptive rehabilitation in cervicogenic headache** — surface EMG, posturography and machine-learning analysis of biomechanical data — and **resistance training on the cost of walking and muscle architecture in healthy older adults**, combining metabolic cost measurement, B-mode ultrasound of muscle architecture, and markerless motion capture with statistical parametric mapping. Supervisors: Prof. Tibor Hortobágyi and Assoc. Prof. Magda Ramadan. **Joint PhD, 2022–2026.**
+**Postural control and proprioceptive rehabilitation in cervicogenic headache** — surface EMG, posturography and machine-learning analysis of biomechanical data — and **resistance training on the cost of walking and muscle architecture in healthy older adults**, combining metabolic cost measurement, B-mode ultrasound of muscle architecture, and markerless motion capture with statistical parametric mapping. **Joint PhD, 2022–2026.**
 
 ### Postural control and proprioceptive rehabilitation in cervicogenic headache
 Originating in my MSc and continuing through the doctorate, this strand uses **surface EMG, posturography (centre-of-pressure) and machine-learning analysis of biomechanical data** to ask who benefits from proprioceptive rehabilitation and why. It has produced four clinical trials and a machine-learning classification study (*Journal of Clinical Medicine* 2024, *BMC Neurology* 2025, *Physiology International* 2026, *Life* 2026) and remains an active interest.
