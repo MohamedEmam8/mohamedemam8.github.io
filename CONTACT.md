@@ -212,7 +212,7 @@ Absolutely. I'm currently based in Budapest but maintain active collaborations a
 
 ### What about PhD supervision?
 
-I'm not formally a supervisor (still completing my own PhD until November 2026), but I actively mentor and collaborate with students. Post-PhD, formal supervisory roles will be part of my trajectory.
+I'm not formally a supervisor at this stage, but I actively mentor and collaborate with students. Post-PhD, formal supervisory roles will be part of my trajectory.
 
 ### How can I stay updated on your research?
 

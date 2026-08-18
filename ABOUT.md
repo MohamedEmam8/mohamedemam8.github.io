@@ -2,11 +2,11 @@
 
 ## Professional Summary
 
-I am a biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis University (Budapest) and Cairo University, with my defence scheduled for **August 2026**. My work bridges clinical rehabilitation practice with cutting-edge biomechanics research, using markerless motion capture (OpenCap) and statistical parametric mapping to answer questions that matter in real clinical settings.
+I am a biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis University (Budapest) and Cairo University (**2022–2026**). My work bridges clinical rehabilitation practice with cutting-edge biomechanics research, using markerless motion capture (OpenCap) and statistical parametric mapping to answer questions that matter in real clinical settings.
 
 With **9 years of clinical and academic experience**, I bring both theoretical expertise and hands-on understanding of what works in musculoskeletal and neurological rehabilitation. I hold full general registration with the Australian Health Practitioner Regulation Agency (AHPRA), meaning I can participate in clinical research in Australia from day one.
 
-My research focuses on **gait analysis, motion capture biomechanics, neurorehabilitation, electrical stimulation, and aging physiology**. I have authored **eleven peer-reviewed publications** (two in press) in Q1 and Q2 journals, including randomised controlled trials, systematic reviews, meta-analyses, and machine-learning classification of biomechanical data. Beyond research, I teach physiotherapy at university level, create clinical education content for practitioners and students, and mentor undergraduate and master's students in research design and methodology.
+My research focuses on **gait analysis, motion capture biomechanics, neurorehabilitation, electrical stimulation, and aging physiology**, alongside a continuing interest in **postural control and proprioceptive rehabilitation in cervicogenic headache** — surface EMG, posturography and machine-learning analysis of biomechanical data. I have authored **thirteen peer-reviewed publications** (two accepted/in press) in Q1 and Q2 journals, including randomised controlled trials, systematic reviews, meta-analyses, and machine-learning classification of biomechanical data. Beyond research, I teach physiotherapy at university level, create clinical education content for practitioners and students, and mentor undergraduate and master's students in research design and methodology.
 
 ---
 
@@ -14,9 +14,11 @@ My research focuses on **gait analysis, motion capture biomechanics, neurorehabi
 
 ### Joint PhD in Health Sciences
 **Semmelweis University, Budapest, Hungary & Cairo University, Egypt**  
-*2022 – Present (defence expected August 2026)*
+*2022 – 2026*
 
-Focus: Postural control and proprioceptive rehabilitation in cervicogenic headache; surface EMG, posturography, and machine-learning classification of biomechanical data
+Thesis: Effect of eccentric versus concentric overload resistance training on the cost of walking, mechanical efficiency and muscle architecture in healthy older adults
+
+Supervisors: Prof. Tibor Hortobágyi; Assoc. Prof. Magda Ramadan
 
 ### MSc in Physical Therapy
 **Cairo University, Egypt**  
@@ -46,9 +48,11 @@ Registration No.: PHY0002905130
 | First author meta-analysis on electrical stimulation | 2025 | Systematized evidence for clinical practice |
 | SE 250+ Excellence PhD Scholarship | 2025, 2026 | Merit award for Q1 research profile |
 | EKOP Doctoral Excellence Grant (Hungarian Ministry) | 2026 | National competitive funding |
-| Poster Award at International Health Science Conference | 2025 | International recognition |
-| 11 peer-reviewed publications | 2019–2026 | Consistent research output |
-| 5 peer reviews completed | Ongoing | Academic service to community |
+| Best Poster Award, 1st International Health Science Conference, Szeged | 2025 | International recognition |
+| Best Project Award, Biomedical Data Summer School, Semmelweis University | 2026 | Competitive team project prize |
+| Pannonia Scholarship mobility grant | 2026 | Competitive international mobility funding |
+| 13 peer-reviewed publications | 2019–2026 | Consistent research output |
+| 10 peer reviews completed for 6 journals | Ongoing | Academic service to community |
 | AHPRA full registration | Current | Clinical practice authority in Australia |
 
 ---
@@ -56,7 +60,7 @@ Registration No.: PHY0002905130
 ## Career Path
 
 ### Research & Academia
-- **PhD Candidate, Semmelweis University & Cairo University** (2022–Present)
+- **PhD Candidate, Semmelweis University & Cairo University** (2022–2026)
   - Markerless motion capture, gait analysis, statistical parametric mapping
   - Pilot RCT on resistance training effects on gait kinematics in older adults
   - Kinematic patterns in muscular dystrophy (SPM analysis)
@@ -103,10 +107,22 @@ Beyond academic publishing, I am committed to making research accessible to clin
 
 - **University Lecturer** in musculoskeletal physiotherapy with 9 years of teaching experience
 - **YouTube Educational Channel:** Creating videos translating research methods and rehabilitation techniques for clinicians and students
-- **Peer Review Contributor:** Completed 5 peer reviews for international journals
+- **Peer Review Contributor:** Completed 10 peer reviews for six international journals (*Journal of NeuroEngineering and Rehabilitation*, *Healthcare*, *Frontiers in Physiology*, *Musculoskeletal Care*, *Scientific Reports*, *BMC Neurology*)
 - **Clinical Workshops:** Delivered free practical workshops for newly qualified physiotherapists
 - **PhD Seminar Series Organizer:** Coordinated research methods talks at Semmelweis University
 - **Student Mentorship:** Guided undergraduate and master's students through project design, data analysis, and evidence-based practice
+
+---
+
+## Conference Presentations
+
+- **European College of Sport Science**, Lausanne 2026 (poster) and Rimini 2025 (poster)
+- **International Motor Control Conference**, Amsterdam 2025 (oral)
+- **3rd Biomechanics Symposium**, Budapest 2025 (poster)
+- **1st International Health Science Conference**, Szeged 2025 (poster) — Best Poster Award
+- **Biomedical Data Summer School**, Budapest 2026 — Best Project Award
+- **ORPHEUS**, Budapest 2026
+- Organiser: PhD Scientific Days, Semmelweis University (2025, 2026); 3rd Biomechanics Symposium, Hungarian University of Sports Science (2025)
 
 ---
 
@@ -168,7 +184,7 @@ The gap between research and clinical practice is real. I've spent my career try
 
 I bring:
 - ✓ Clinical credibility (AHPRA registration, 9 years practice)
-- ✓ Research depth (11 Q1/Q2 publications, PhD on horizon)
+- ✓ Research depth (13 Q1/Q2 publications, PhD completed 2026)
 - ✓ Technical skills (OpenCap, SPM, MATLAB, advanced statistics)
 - ✓ Teaching experience (university lecturer, knowledge translation)
 - ✓ International recognition (scholarships, conference presentations)
