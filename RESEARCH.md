@@ -110,10 +110,10 @@ Beyond gait, I investigate biomechanics of common musculoskeletal problems.
 ## PhD Research
 
 ### Focus
-**Effect of eccentric versus concentric overload resistance training on the cost of walking, mechanical efficiency and muscle architecture in healthy older adults** — combining metabolic cost measurement, B-mode ultrasound of muscle architecture, and markerless motion capture with statistical parametric mapping. Supervisors: Prof. Tibor Hortobágyi and Assoc. Prof. Magda Ramadan. **Joint PhD, 2022–2026.**
+**Postural control and proprioceptive rehabilitation in cervicogenic headache** — surface EMG, posturography and machine-learning analysis of biomechanical data — and **resistance training on the cost of walking and muscle architecture in healthy older adults**, combining metabolic cost measurement, B-mode ultrasound of muscle architecture, and markerless motion capture with statistical parametric mapping. Supervisors: Prof. Tibor Hortobágyi and Assoc. Prof. Magda Ramadan. **Joint PhD, 2022–2026.**
 
-### Parallel research line: postural control and proprioceptive rehabilitation in cervicogenic headache
-Running alongside the doctorate, and originating in my MSc, this strand uses **surface EMG, posturography (centre-of-pressure) and machine-learning analysis of biomechanical data** to ask who benefits from proprioceptive rehabilitation and why. It has produced four clinical trials and a machine-learning classification study (*Journal of Clinical Medicine* 2024, *BMC Neurology* 2025, *Physiology International* 2026, *Life* 2026) and remains an active interest.
+### Postural control and proprioceptive rehabilitation in cervicogenic headache
+Originating in my MSc and continuing through the doctorate, this strand uses **surface EMG, posturography (centre-of-pressure) and machine-learning analysis of biomechanical data** to ask who benefits from proprioceptive rehabilitation and why. It has produced four clinical trials and a machine-learning classification study (*Journal of Clinical Medicine* 2024, *BMC Neurology* 2025, *Physiology International* 2026, *Life* 2026) and remains an active interest.
 
 ### Emerging direction (beyond the PhD)
 Alongside the doctorate, I have built a markerless motion-capture and SPM research programme — including a muscular-dystrophy gait study (manuscript under review) and post-stroke gait machine-learning work. This is the methodological foundation of my proposed postdoctoral research.

@@ -16,7 +16,7 @@ My research focuses on **gait analysis, motion capture biomechanics, neurorehabi
 **Semmelweis University, Budapest, Hungary & Cairo University, Egypt**  
 *2022 – 2026*
 
-Thesis: Effect of eccentric versus concentric overload resistance training on the cost of walking, mechanical efficiency and muscle architecture in healthy older adults
+Postural control and proprioceptive rehabilitation in cervicogenic headache — surface EMG, posturography and machine-learning analysis of biomechanical data; and resistance training on the cost of walking and muscle architecture in healthy older adults
 
 Supervisors: Prof. Tibor Hortobágyi; Assoc. Prof. Magda Ramadan
 
