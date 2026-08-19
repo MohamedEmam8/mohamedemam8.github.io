@@ -54,7 +54,7 @@ I welcome collaboration on:
 **What I bring:**
 - ✓ Expertise in markerless motion capture (OpenCap)
 - ✓ Advanced statistical methods (SPM1D, MATLAB/Python)
-- ✓ Clinical credibility (AHPRA registration, 9 years practice)
+- ✓ Clinical credibility (AHPRA registration, 11 years practice)
 - ✓ Strong publication track record (Q1/Q2 journals)
 
 ---
@@ -236,4 +236,4 @@ Whether you're interested in research collaboration, clinical translation, teach
 
 ---
 
-**Based in Budapest. Open to opportunities worldwide. Pursuing postdoctoral fellowships in Australia.**
+**Based in Budapest. Open to opportunities worldwide. Open to postdoctoral fellowships internationally.**

@@ -237,7 +237,7 @@ Muscular dystrophy causes progressive muscle weakness, leading to compensatory g
 - **Semmelweis University, Budapest** — PhD supervision, biomechanics lab
 - **Cairo University, Egypt** — Co-supervisor, clinical partnerships
 - **Research groups across Hungary, Egypt, China, Netherlands** — Collaborative projects
-- **AHPRA-affiliated Australian institutions** — Postdoc pathway
+- **International research groups in biomechanics and rehabilitation** — Postdoc pathway
 
 ---
 

@@ -4,7 +4,7 @@
 
 I am a biomechanics researcher and AHPRA-registered physiotherapist completing a joint PhD at Semmelweis University (Budapest) and Cairo University (**2022–2026**). My work bridges clinical rehabilitation practice with cutting-edge biomechanics research, using markerless motion capture (OpenCap) and statistical parametric mapping to answer questions that matter in real clinical settings.
 
-With **9 years of clinical and academic experience**, I bring both theoretical expertise and hands-on understanding of what works in musculoskeletal and neurological rehabilitation. I hold full general registration with the Australian Health Practitioner Regulation Agency (AHPRA), meaning I can participate in clinical research in Australia from day one.
+With **11 years of clinical and academic experience**, I bring both theoretical expertise and hands-on understanding of what works in musculoskeletal and neurological rehabilitation. I hold full general registration with the Australian Health Practitioner Regulation Agency (AHPRA), meaning I can participate in clinical research in Australia from day one.
 
 My research focuses on **gait analysis, motion capture biomechanics, neurorehabilitation, electrical stimulation, and aging physiology**, alongside a continuing interest in **postural control and proprioceptive rehabilitation in cervicogenic headache** — surface EMG, posturography and machine-learning analysis of biomechanical data. I have authored **thirteen peer-reviewed publications** (two accepted/in press) in Q1 and Q2 journals, including randomised controlled trials, systematic reviews, meta-analyses, and machine-learning classification of biomechanical data. Beyond research, I teach physiotherapy at university level, create clinical education content for practitioners and students, and mentor undergraduate and master's students in research design and methodology.
 
@@ -103,7 +103,7 @@ Registration No.: PHY0002905130
 
 Beyond academic publishing, I am committed to making research accessible to clinical practitioners:
 
-- **University Lecturer** in musculoskeletal physiotherapy with 9 years of teaching experience
+- **University Lecturer** in musculoskeletal physiotherapy with 10 years of teaching experience
 - **YouTube Educational Channel:** Creating videos translating research methods and rehabilitation techniques for clinicians and students
 - **Peer Review Contributor:** Completed 10 peer reviews for six international journals (*Journal of NeuroEngineering and Rehabilitation*, *Healthcare*, *Frontiers in Physiology*, *Musculoskeletal Care*, *Scientific Reports*, *BMC Neurology*)
 - **Clinical Workshops:** Delivered free practical workshops for newly qualified physiotherapists
@@ -171,7 +171,7 @@ Beyond academic publishing, I am committed to making research accessible to clin
 ## Current Location & Future
 
 **Based in:** Budapest, Hungary  
-**Seeking:** Postdoctoral fellowship opportunities, particularly in Australia  
+**Seeking:** Postdoctoral fellowship opportunities internationally  
 **Research Focus Ahead:** Neurorehabilitation, electrical stimulation, aging physiology, clinical translation of gait analysis technology
 
 ---
@@ -181,7 +181,7 @@ Beyond academic publishing, I am committed to making research accessible to clin
 The gap between research and clinical practice is real. I've spent my career trying to close it—understanding how markerless motion capture can inform rehabilitation decisions, how electrical stimulation can improve recovery post-stroke, how eccentric exercise affects functional gait in older adults. This isn't theoretical. It's about patients walking better, recovering faster, living more independently.
 
 I bring:
-- ✓ Clinical credibility (AHPRA registration, 9 years practice)
+- ✓ Clinical credibility (AHPRA registration, 11 years practice)
 - ✓ Research depth (13 Q1/Q2 publications, PhD completed 2026)
 - ✓ Technical skills (OpenCap, SPM, MATLAB, advanced statistics)
 - ✓ Teaching experience (university lecturer, knowledge translation)
